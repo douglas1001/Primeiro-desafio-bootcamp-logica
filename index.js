@@ -2,7 +2,7 @@ let nomeHeroi = "Douglas" ;
 let experienciaHeroi = 7985;
 let nivel= ""
 
-//Verificação do Nivel do Herói usando estrutura de repetição
+//Verificação do Nivel do Herói usando estrutura de repetição switch
 
 switch (true) {
     case (experienciaHeroi <= 1000):
