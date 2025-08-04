@@ -1,6 +1,8 @@
 let NomeHeroi = "Douglas" ;
 let ExperienciaHeori = 1000;
 
+//Verificação do Nivel do Herói
+
 if (ExperienciaHeori <= 1000){
     console.log("O Herói de nome "+ NomeHeroi +" está no nível de Ferro")
 }else if (ExperienciaHeori >= 1001 && ExperienciaHeori <= 2000 ){
